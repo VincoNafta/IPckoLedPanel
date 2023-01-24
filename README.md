@@ -12,7 +12,7 @@ Podporované Mikrokontrolery:
   Podporované sú teda tieto od firmy arduino a zároveň aj ich klony:
     - Arduino UNO
     - Arduino Nano(doporučujem)
-    - Arduino Miny
+    - Arduino Mini
 Používateľské prispôsobenie:
   - Ako bežný používateľ si môžete zmeniť piny na ktorých sú dané písmenká, prípadne jas, prípadne to koľko krát sa môžu dané interakcie opakovať
 Základné príkazy:
